@@ -35,8 +35,12 @@
             "id": "163d18bdb5a1b265",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Project Tree.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project Tree.md"
+              }
             }
           }
         ]
@@ -153,9 +161,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1cde86cfb0442222",
+  "active": "163d18bdb5a1b265",
   "lastOpenFiles": [
-    "Project Tree.md",
-    "index.md"
+    "index.md",
+    "x.md",
+    "Project Tree.md"
   ]
 }
